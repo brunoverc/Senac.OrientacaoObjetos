@@ -1,0 +1,15 @@
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/bin/Debug/net6.0/OrientacaoObjetos
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/bin/Debug/net6.0/OrientacaoObjetos.deps.json
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/bin/Debug/net6.0/OrientacaoObjetos.runtimeconfig.json
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/bin/Debug/net6.0/OrientacaoObjetos.dll
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/bin/Debug/net6.0/OrientacaoObjetos.pdb
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.csproj.AssemblyReference.cache
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.AssemblyInfoInputs.cache
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.AssemblyInfo.cs
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.csproj.CoreCompileInputs.cache
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.dll
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/refint/OrientacaoObjetos.dll
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.pdb
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/OrientacaoObjetos.genruntimeconfig.cache
+/Users/brunovercosa/Projects/OrientacaoObjetos/OrientacaoObjetos/obj/Debug/net6.0/ref/OrientacaoObjetos.dll
